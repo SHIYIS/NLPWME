@@ -1,10 +1,8 @@
 # What Constitutes As The Philosophy of Mind？
 
-This blog will summarize articles, papers, and material I have gone through that touch on the subject of _The
-Computational Theory of Mind_.
+This blog will summarize articles, papers, and material I have gone through that touch on the subject of _The Computational Theory of Mind_.
 
-In this one article that touches on this subject, it's known that the computational theory of mind promises us the
-abilities of a machine to emulate reasoning, decision-making, problem solving, perception, linguistic comprehension, and
+In this one article that touches on this subject, it's known that the computational theory of mind promises us the abilities of a machine to emulate reasoning, decision-making, problem solving, perception, linguistic comprehension, and
 other mental processes.
 
 **Table Of Contents**
@@ -13,7 +11,8 @@ other mental processes.
 
 ### The Implications of Human Beings As Conscious Automata and The Definition of Consciousness
 
-Advances in computing raise the prospect known as _The Computational Theory of Mind_ (CTM). Computationalists understand this paradigm as the principle to cognitive science (Rescorla 2020). Then later two schools of thoughts challenged this orthodox position.
+Advances in computing raise the prospect known as _The Computational Theory of Mind_ (CTM). Computationalists understand this paradigm as the principle to cognitive science (Rescorla 2020). Then later two schools of thoughts challenged this orthodox'
+3 position.
 
 One pertains to the neurological properties of the mind and body and the other emphasized representational mental
 states. To have a better understanding overall, we have to first know where these premises in the realm of CTM stemmed
@@ -156,15 +155,13 @@ its working, and
 to be as completely without any power of modifying that working as the steam-whistle which accompanies the work of a
 locomotive engine is without influence upon its machinery.
 
-_Their volition, if they have any, is an emotion indicative of physical changes, not a cause of such
-changes. […]_
+_Their volition, if they have any, is an emotion indicative of physical changes, not a cause of such changes. […]_
 
 It is quite true that, to the best of my judgment, the argumentation which applies to brutes holds equally good of men;
 and, therefore, that all states of consciousness in us, as in them, are immediately caused by molecular changes of the
 brain-substance.
 It seems to me that in men, as in brutes, there is no proof that any state of consciousness is the cause of change in
-the motion of
-the matter of the organism.
+the motion of the matter of the organism.
 
 @@
 
@@ -365,7 +362,7 @@ More importantly, with a shift in the representation of information toward a sub
 
 
 
-The shift toward a sub-symbolic, universally distributed representation seems to open up possibilities for addressing challenges related to syntactic representation and processing. By embracing a more dynamic and contextually adaptive approach, this mechanism may provide a framework for capturing syntactic information in a manner that aligns with the overall goals of the system.
+The shift toward a sub-symbolic, universally distributed representation seems to open up possibilities for addressing challenges related to syntactic representation and processing. By e\mbracing a more dynamic and contextually adaptive approach, this mechanism may provide a framework for capturing syntactic information in a manner that aligns with the overall goals of the system.
 
 @@colbox-blue
 
